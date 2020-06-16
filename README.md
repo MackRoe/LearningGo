@@ -6,6 +6,8 @@ This repository contains three beginner Go programs:
 - year.go
 - avgWt.go
 
+The second two are within the warmup1 folder.
+
 ## How to Run
 
 - Navigate to the directory to which you want to save the repo
