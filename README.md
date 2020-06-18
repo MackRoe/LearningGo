@@ -3,8 +3,11 @@
 This repository contains three beginner Go programs:
 
 - hello.go
-- year.go
-- avgWt.go
+- warmup1/
+    - year.go
+    - avgWt.go
+- warmup2/
+    - houseInfo.go
 
 The second two are within the warmup1 folder.
 
